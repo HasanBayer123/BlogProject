@@ -1,0 +1,12 @@
+C:\Users\Hasan BAYER\source\repos\CoreLayer\bin\Debug\net7.0\CoreLayer.deps.json
+C:\Users\Hasan BAYER\source\repos\CoreLayer\bin\Debug\net7.0\CoreLayer.dll
+C:\Users\Hasan BAYER\source\repos\CoreLayer\bin\Debug\net7.0\CoreLayer.pdb
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.csproj.AssemblyReference.cache
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.dll
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\refint\CoreLayer.dll
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\CoreLayer.pdb
+C:\Users\Hasan BAYER\source\repos\CoreLayer\obj\Debug\net7.0\ref\CoreLayer.dll
